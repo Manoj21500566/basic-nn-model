@@ -52,7 +52,7 @@ Evaluate the model with the testing data.
 Developed by : Anto Richard.S
 Reg.no : 21222124005
 Program to develop a neural network regression model..
-
+````
 ### To Read CSV file from Google Drive :
 
 from google.colab import auth
@@ -136,7 +136,7 @@ ai_brain.predict(X_n1
 
 ![out1](https://user-images.githubusercontent.com/94588708/187126189-6bf87d2a-5869-4ca8-8935-b4896492f407.png)
 
-
+```
 ## OUTPUT
 
 ### Initiation of program :
