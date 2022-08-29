@@ -171,7 +171,7 @@ ai_brain.predict(X_n1
 
 ### New Sample Data Prediction
 
-![out8](https://user-images.githubusercontent.com/94588708/187128018-594d4927-325e-4fe7-823a-d14ec2fe56b6.png)
+![out8](out8.png)
 
 
 ## RESULT
